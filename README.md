@@ -22,6 +22,9 @@ In this project, the CSTR acts as a **virtual chemical process**.
 
 The physics-based simulator generates process data, and a machine-learning model learns to approximate the behaviour of the simulator.
 
+Link1: https://github.com/vicena-labs/chemical-reactor-digital-twin
+Link2: https://github.com/allenjoignatius-sys/cstr-hybrid-neural-network?utm_source=chatgpt.com
+
 ### Overall Workflow
 
 ```text
@@ -71,3 +74,7 @@ The physics-based simulator generates process data, and a machine-learning model
                        |
                        v
               Scientific Analysis
+
+
+
+''''''
